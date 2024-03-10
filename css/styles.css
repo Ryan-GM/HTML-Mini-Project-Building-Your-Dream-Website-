@@ -1,0 +1,18 @@
+.navbar-dark .navbar-nav .nav-link {
+    position: relative;
+    margin-left: 25px;
+    padding: 35px 0;
+    font-size: 15px;
+    color: var(--light) !important;
+    text-transform: uppercase;
+    font-weight: 500;
+    outline: none;
+    transition: .5s;
+}
+
+.hero-header {
+    background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(../img/redStilleto.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
